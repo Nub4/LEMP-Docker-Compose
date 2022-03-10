@@ -6,6 +6,7 @@ This project has been done with Ubuntu on a Virtual machine.
 # Setups
 Download Docker:
 - make download_docker \
+
 Run Docker commands without sudo: \
 - sudo groupadd docker \
 - sudo gpasswd -a $USER docker \
