@@ -9,6 +9,6 @@ Download Docker:
 
 Run Docker commands without sudo:
 - sudo groupadd docker
-- sudo gpasswd -a $USER docker
+- sudo gpasswd -a $USER docker \
 (log out and log back)
 - sudo service docker restart
